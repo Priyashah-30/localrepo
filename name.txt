@@ -1,4 +1,26 @@
 HEllo
+<<<<<<< HEAD
 I'm from 
 I'm from B
 
+=======
+I'm from A
+
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+this iis first
+=======
+this is second
+>>>>>>> Stashed changes
+=======
+this is third
+>>>>>>> Stashed changes
+=======
+this is second
+>>>>>>> Stashed changes
+=======
+this is second
+>>>>>>> Stashed changes
+>>>>>>> A
